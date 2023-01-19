@@ -1,0 +1,14 @@
+D:\DesignPatterns\Flyweight\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.exe
+D:\DesignPatterns\Flyweight\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.deps.json
+D:\DesignPatterns\Flyweight\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.json
+D:\DesignPatterns\Flyweight\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.dev.json
+D:\DesignPatterns\Flyweight\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.dll
+D:\DesignPatterns\Flyweight\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.pdb
+D:\DesignPatterns\Flyweight\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csproj.AssemblyReference.cache
+D:\DesignPatterns\Flyweight\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns\Flyweight\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfoInputs.cache
+D:\DesignPatterns\Flyweight\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfo.cs
+D:\DesignPatterns\Flyweight\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\Flyweight\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.dll
+D:\DesignPatterns\Flyweight\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.pdb
+D:\DesignPatterns\Flyweight\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.genruntimeconfig.cache

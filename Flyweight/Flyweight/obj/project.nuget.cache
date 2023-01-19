@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cB8S+MmSLhs31KLOIjUFrdVj26EvULppn/fHW/VKfZvdsx4uycidcGXbrf1T7+oln05Rxdax1idExrJQVD4Qbg==",
+  "success": true,
+  "projectFilePath": "D:\\DesignPatterns\\Flyweight\\Flyweight\\Flyweight.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fatima.Tahir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
