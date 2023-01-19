@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "42XSCo5VjUk06O31WZWGRzbaoY2ZOPbecZHvKsX/ofzbARCjuhijgDeyMmCcmtsM4M3+a57jMaNxq2inkJ+stg==",
+  "success": true,
+  "projectFilePath": "D:\\DesignPatterns\\Prototype\\Prototype\\Prototype.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fatima.Tahir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
