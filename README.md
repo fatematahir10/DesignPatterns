@@ -7,3 +7,5 @@ FlyWeight Design Pattern: A fine-grained instance used for efficient sharing (Re
 Prototype Design Pattern: Create new objects by copying an existing object
 
 State Design Pattern: Alter an object behavior when its state changes
+
+Iterator: allows sequential traversal through a complex data structure without exposing its internal details
